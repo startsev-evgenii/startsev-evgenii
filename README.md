@@ -19,7 +19,7 @@
 
 ### Как связаться?
 
-<a href="https://t.me/stratsev_evgenii">
+<a href="https://t.me/startsev_evgenii">
     <img src="https://img.shields.io/badge/Contact-Me%20on%20Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
 
